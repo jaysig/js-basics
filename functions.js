@@ -13,3 +13,10 @@ function AnimalMaker(name){
 }
 
 //Block Scope - Does not exist in JS
+
+//Module pattern - Having private functions
+
+//Each - can not return anything 
+
+// Map - similar to each but returns a new array 
+
